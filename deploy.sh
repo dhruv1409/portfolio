@@ -13,7 +13,8 @@ npm run build
 
 # Copy the build folder to /var/www/html/dhruvdev.com
 sudo rm -r /var/www/html/dhruvdev.com
-sudo cp -r build/* /var/www/html/dhruvdev.com
+sudo mkdir /var/www/html/dhruvdev.com
+sudo cp -r ~/portfolio/build/* /var/www/html/dhruvdev.com
 
 # Restart Apache server
 sudo systemctl restart apache2
