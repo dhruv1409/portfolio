@@ -10,7 +10,9 @@ cd ~/portfolio
 npm install
 npm run build
 
+
 # Copy the build folder to /var/www/html/dhruvdev.com
+sudo rm -r /var/www/html/dhruvdev.com
 sudo cp -r build/* /var/www/html/dhruvdev.com
 
 # Restart Apache server
