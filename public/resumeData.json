@@ -1,11 +1,11 @@
 {
   "main": {
     "name": "Dhruv Sharma",
-    "occupation": "CEO of DhruvDev.com",
+    "occupation": "Creator of DhruvDev.com",
     "description": "I like cruising the open roads and think of innovative ideas that can bring real-world solutions to life",
     "image": "profilepic.jpg",
     "bio": "Full stack developer, proficient in JavaScript, TypeScript, Node.js, and NestJS, with a deep understanding of domain-driven design and clean architecture principles to leverage scalability and maintain efficiency.",
-    "contactmessage": "Get in touch with me to be bring your exicitng idea to life!",
+    "contactmessage": "Get in touch with me to be bring your exicitng ideas to life!",
     "email": "dhruvsharma.dav@gmail.com",
     "phone": "+91 9650447667",
     "address": {
